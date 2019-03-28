@@ -66,3 +66,8 @@ tree&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Compare with other method
+origin | mask | result
+<br/><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/1.jpg" width="200" height="200"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/mask1.png" width="200" height="200"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/out1.png" width="200" height="200"/>
