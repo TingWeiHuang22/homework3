@@ -6,6 +6,7 @@
 
 ### origin
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/original_pic.jpg" width="250" height="250"/>
+
 ### result
 object | first draw &nbsp;&nbsp;&nbsp;&nbsp;| after draw &nbsp;&nbsp;&nbsp;&nbsp;| second draw &nbsp;&nbsp;| after draw &nbsp;&nbsp;&nbsp;&nbsp;| first remove &nbsp;&nbsp;&nbsp;| after remove |second remove|after remove 
 <br/>
