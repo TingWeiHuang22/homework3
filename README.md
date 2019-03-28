@@ -9,7 +9,7 @@
 <br/> 
 
 ### result
-object | first draw &nbsp;&nbsp;| after draw &nbsp;&nbsp;| second draw &nbsp;| after draw &nbsp;&nbsp;| first remove &nbsp;&nbsp;| after remove &nbsp;&nbsp;| second remove &nbsp;| after remove 
+object | first draw &nbsp;&nbsp&nbsp;&nbsp;;| after draw &nbsp;&nbsp;&nbsp;&nbsp;| second draw &nbsp;&nbsp;| after draw &nbsp;&nbsp;&nbsp;&nbsp;| first remove &nbsp;&nbsp;&nbsp;&nbsp;| after remove &nbsp;&nbsp;&nbsp;&nbsp;| second remove &nbsp;&nbsp;| after remove 
 <br/>
 brick&nbsp;&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/brick_add1.jpg" width="100" height="100"/>
