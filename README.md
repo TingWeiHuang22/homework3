@@ -43,7 +43,7 @@ grass
 <br/>
 tree
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add1.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add2.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add2.png" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add3.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add4.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re1.jpg" width="100" height="100"/>
