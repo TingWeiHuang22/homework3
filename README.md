@@ -9,9 +9,9 @@
 <br/> 
 
 ### result
-object | first draw | after draw | second draw  | after draw | first remove | after remove | second remove | after remove 
+object | first draw &nbsp;&nbsp;| after draw &nbsp;&nbsp;| second draw &nbsp;| after draw &nbsp;&nbsp;| first remove &nbsp;&nbsp;| after remove &nbsp;&nbsp;| second remove &nbsp;| after remove 
 <br/>
-brick&nbsp;&nbsp;&nbsp;
+brick&nbsp;&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/brick_add1.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/brick_add2.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/brick_add3.jpg" width="100" height="100"/>
@@ -21,7 +21,7 @@ brick&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/brick_re3.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/brick_re4.jpg" width="100" height="100"/>
 <br/>
-door&nbsp;&nbsp;&nbsp;
+door&nbsp;&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_add1.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_add2.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_add3.jpg" width="100" height="100"/>
@@ -31,7 +31,7 @@ door&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_re3.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_re4.jpg" width="100" height="100"/>
 <br/>
-grass&nbsp;&nbsp;&nbsp;
+grass&nbsp;&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_add1.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_add2.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_add3.jpg" width="100" height="100"/>
@@ -41,7 +41,7 @@ grass&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_re3.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_re4.jpg" width="100" height="100"/>
 <br/>
-tree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+tree&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add1.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add2.png" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add3.jpg" width="100" height="100"/>
