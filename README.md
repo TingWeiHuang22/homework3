@@ -6,10 +6,12 @@
 
 ### origin
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/original_pic.jpg" width="250" height="250"/>
+<br/> 
 
-### draw     
-first draw  | after first draw | second draw  | after second draw | first remove | after first remove | second remove | after second remove 
+### result
+object | first draw | after draw | second draw  | after draw | first remove | after remove | second remove | after remove 
 <br/>
+brick
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/brick_add1.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/brick_add2.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/brick_add3.jpg" width="100" height="100"/>
@@ -19,10 +21,35 @@ first draw  | after first draw | second draw  | after second draw | first remove
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/brick_re3.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/brick_re4.jpg" width="100" height="100"/>
 <br/>
-
-
-
-### remove
+door
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_add1.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_add2.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_add3.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_add4.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_re1.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_re2.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_re3.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/door_re4.jpg" width="100" height="100"/>
+<br/>
+grass
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_add1.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_add2.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_add3.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_add4.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_re1.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_re2.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_re3.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/grass_re4.jpg" width="100" height="100"/>
+<br/>
+tree
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add1.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add2.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add3.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add4.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re1" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re2" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re3" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re4" width="100" height="100"/>
 
 
 ## Dissect GAN model and analyze
