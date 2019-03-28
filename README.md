@@ -46,10 +46,10 @@ tree
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add2.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add3.jpg" width="100" height="100"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_add4.jpg" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re1" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re2" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re3" width="100" height="100"/>
-<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re4" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re1.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re2.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re3.jpg" width="100" height="100"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/GANpaint/tree_re4.jpg" width="100" height="100"/>
 
 
 ## Dissect GAN model and analyze
