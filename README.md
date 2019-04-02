@@ -62,6 +62,9 @@ tree&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Dissect GAN model and analyze
+<br/><br/>
+在此部分，吾組分析的GAN model為"livingroom_lsun.pth"這個model。而對於這個model，吾組對其分析了layer1、layer4以及layer7共3層layer，以下的部分則會分別探討layer4以及layer7個別units的作用。(不探討layer1的原因在於，每個object對應的unit所顯示的IOU過低(最高只有到0.1)，是故吾組認為探討layer1的效益並不大。)
+<br/><br/>
 ### layer 4
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4.png" /><br/>
 #### ceiling
