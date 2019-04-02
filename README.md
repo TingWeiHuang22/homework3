@@ -65,36 +65,29 @@ tree&nbsp;&nbsp;&nbsp;&nbsp;
 ### layer 4
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4.png" /><br/>
 #### ceiling
-unit 306<br/>
+unit: 306,340,469<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_ceiling_unit306.png" /><br/>
-<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit306.png" /><br/>
-unit 340<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_ceiling_unit340.png" /><br/>
-<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit340.png" /><br/>
-unit 469<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_ceiling_unit469.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit306.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit340.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit469.png" /><br/>
 #### window
-unit 88<br/>
+unit: 88,404,405<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_window_unit88.png" /><br/>
-<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit88.png" /><br/>
-unit 404<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_window_unit404.png" /><br/>
-<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit404.png" /><br/>
-unit 405<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_window_unit405.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit88.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit404.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit405.png" /><br/>
 #### sofa
-unit 25<br/>
+unit 25,37,383<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_sofa_unit25.png" /><br/>
-<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_sofa_unit25.png" /><br/>
-unit 37<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_sofa_unit37.png" /><br/>
-<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_sofa_unit37.png" /><br/>
-unit 383<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_sofa_unit383.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_sofa_unit25.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_sofa_unit37.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_sofa_unit383.png" /><br/>
-
 
 
 
