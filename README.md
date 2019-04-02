@@ -136,6 +136,9 @@ unit 42,159,249(此3 units為在layer7中對於偵測sofa這個object IOU前3高
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_sofa_unit249.png" /><br/>
 上面的對照圖中，左邊為原圖，右邊為對249這個unit remove後的sofa效果<br/>
 
+<br/>
+從前面實驗的結果，吾組推測出較前面的layer(如：layer1，layer4)，移除單一unit的結果從結果圖看來效果並不顯著。然而layer7因為IOU較高，所以移除單一unit的結果相對於前面的layer而言相對顯著!
+
 ## Compare with other method
 在此部分吾組所使用的other method為助教於課堂中所提及的Inpainting，而Inpainting這個方法的架構可從下圖可以得知：
 
