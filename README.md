@@ -90,4 +90,6 @@ origin | mask | result
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/4.jpg" width="200" height="200"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/mask4.png" width="200" height="200"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/out4.png" width="200" height="200"/>
-
+<br>
+<br>
+GANPaint和Inpainting主要的差異為， GANPaint針對的是特定物體的移除或加入，像是brick, door, tree等等；而Inpainting移除的方式則是透過mask，然而這個mask其實並不需要完全貼齊要移除的物體，只要該物體為mask主要的部分即可。移除效果的部分，兩者方法皆可以將想要移除的部分移除，而補上的部分也幾乎都和背景相近，只是在且GANPaint中，補上的背景不是和背景融為一體，像是移除樹木的那幾張圖，特別是移除樹木的第一張，甚至可以完美的補上移動建築物，或者是顯得非常突兀，像是一除草的那幾張；而Inpainting都帶有一些模糊，在大部分的情形中，帶有一些模糊更能和背景融為一體，像是第一張和第二張，但若是背景過於繽紛，則像是第三張圖，感覺就像畫面被刮壞了，比較特別的"是你的名字"那張，同樣是色彩繽紛，但是不僅成功將女主角移除，也將女主角身後的建築物給補上了。
