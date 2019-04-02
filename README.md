@@ -66,3 +66,21 @@ tree&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Compare with other method
+origin | mask | result
+<br/><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/1.jpg" width="200" height="200"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/mask1.png" width="200" height="200"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/out1.png" width="200" height="200"/>
+<br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/2.jpg" width="200" height="200"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/mask2.png" width="200" height="200"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/out2.png" width="200" height="200"/>
+<br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/3.jpg" width="200" height="200"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/mask3.png" width="200" height="200"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/out3.png" width="200" height="200"/>
+<br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/4.jpg" width="200" height="200"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/mask4.png" width="200" height="200"/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/out4.png" width="200" height="200"/>
+
