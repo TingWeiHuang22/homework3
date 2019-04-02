@@ -72,6 +72,7 @@ unit: 306,340,469(此3 units為在layer4中對於偵測ceiling這個object IOU�
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_ceiling_unit340.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_ceiling_unit469.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit306.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對306這個unit remove後的效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit340.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit469.png" /><br/>
 #### window
