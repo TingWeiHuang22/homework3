@@ -62,7 +62,62 @@ tree&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Dissect GAN model and analyze
+<br/><br/>
+在此部分，吾組分析的GAN model為"livingroom_lsun.pth"這個model。而對於這個model，吾組對其分析了layer1、layer4以及layer7共3層layer，以下的部分則會分別探討layer4以及layer7個別units的作用。(不探討layer1的原因在於，每個object對應的unit所顯示的IOU過低(最高只有到0.1)，是故吾組認為探討layer1的效益並不大。)
+<br/><br/>
+### layer 4
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4.png" /><br/>
+#### ceiling
+unit: 306,340,469<br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_ceiling_unit306.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_ceiling_unit340.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_ceiling_unit469.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit306.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit340.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit469.png" /><br/>
+#### window
+unit: 88,404,405<br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_window_unit88.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_window_unit404.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_window_unit405.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit88.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit404.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit405.png" /><br/>
+#### sofa
+unit 25,37,383<br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_sofa_unit25.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_sofa_unit37.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_sofa_unit383.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_sofa_unit25.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_sofa_unit37.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_sofa_unit383.png" /><br/>
 
+### layer 7
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7.png" /><br/>
+#### ceiling
+unit: 59,133,172<br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_ceiling_unit59.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_ceiling_unit133.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_ceiling_unit172.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_ceiling_unit59.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_ceiling_unit133.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_ceiling_unit172.png" /><br/>
+#### window
+unit: 88,171,190<br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_window_unit88.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_window_unit171.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_window_unit190.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_window_unit88.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_window_unit171.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_window_unit190.png" /><br/>
+#### sofa
+unit 42,159,249<br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_sofa_unit42.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_sofa_unit159.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_sofa_unit249.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_sofa_unit42.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_sofa_unit159.png" /><br/>
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_sofa_unit249.png" /><br/>
 
 
 ## Compare with other method
@@ -90,4 +145,6 @@ origin | mask | result
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/4.jpg" width="200" height="200"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/mask4.png" width="200" height="200"/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/out4.png" width="200" height="200"/>
-
+<br>
+<br>
+GANPaint和Inpainting主要的差異為， GANPaint針對的是特定物體的移除或加入，像是brick, door, tree等等；而Inpainting移除的方式則是透過mask，然而這個mask其實並不需要完全貼齊要移除的物體，只要該物體為mask主要的部分即可。移除效果的部分，兩者方法皆可以將想要移除的部分移除，而補上的部分也幾乎都和背景相近，只是在GANPaint中，補上的背景不是和背景融為一體，就是顯得非常突兀，前者如移除樹木的那幾張圖，特別是移除樹木的第一張，而且可以完美的補上建築物，後者則是像移除草的那幾張，加入的建築物不知道是從哪邊冒出來的；而Inpainting的都帶有一些模糊，在大部分的情形中，帶有一些模糊更能和背景融為一體，像是第一張和第二張，但若是背景過於繽紛，則像是第三張圖，感覺就像畫面被刮壞了，比較特別的"是你的名字"那張，同樣是色彩繽紛，但是不僅成功將女主角移除，也將女主角身後的建築物給補上了。
