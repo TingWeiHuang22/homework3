@@ -66,6 +66,10 @@ tree&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Compare with other method
+在此部分吾組所使用的other method為助教於課堂中所提及的Inpainting，那麼Inpainting這個方法的架構怎是從下圖可以得知：
+
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/mode_inpainting.png" width="250" height="250"/>
+
 origin | mask | result
 <br/><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/1.jpg" width="200" height="200"/>
