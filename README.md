@@ -75,7 +75,7 @@ unit: 306,340,469(此3 units為在layer4中對於偵測ceiling這個object IOU�
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit340.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit469.png" /><br/>
 #### window
-unit: 88,404,405<br/>
+unit: 88,404,405(此3 units為在layer4中對於偵測window這個object IOU前3高的neurons)<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_window_unit88.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_window_unit404.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_window_unit405.png" /><br/>
@@ -83,7 +83,7 @@ unit: 88,404,405<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit404.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit405.png" /><br/>
 #### sofa
-unit 25,37,383<br/>
+unit 25,37,383(此3 units為在layer4中對於偵測sofa這個object IOU前3高的neurons)<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_sofa_unit25.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_sofa_unit37.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_sofa_unit383.png" /><br/>
@@ -94,7 +94,7 @@ unit 25,37,383<br/>
 ### layer 7
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7.png" /><br/>
 #### ceiling
-unit: 59,133,172<br/>
+unit: 59,133,172(此3 units為在layer4中對於偵測ceiling這個object IOU前3高的neurons)<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_ceiling_unit59.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_ceiling_unit133.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_ceiling_unit172.png" /><br/>
@@ -102,7 +102,7 @@ unit: 59,133,172<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_ceiling_unit133.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_ceiling_unit172.png" /><br/>
 #### window
-unit: 88,171,190<br/>
+unit: 88,171,190(此3 units為在layer4中對於偵測window這個object IOU前3高的neurons)<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_window_unit88.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_window_unit171.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_window_unit190.png" /><br/>
@@ -110,7 +110,7 @@ unit: 88,171,190<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_window_unit171.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_window_unit190.png" /><br/>
 #### sofa
-unit 42,159,249<br/>
+unit 42,159,249(此3 units為在layer4中對於偵測sofa這個object IOU前3高的neurons)<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_sofa_unit42.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_sofa_unit159.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_sofa_unit249.png" /><br/>
