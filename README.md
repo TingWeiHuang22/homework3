@@ -66,6 +66,13 @@ tree&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Compare with other method
+在此部分吾組所使用的other method為助教於課堂中所提及的Inpainting，而Inpainting這個方法的架構可從下圖可以得知：
+
+<img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/mode_inpainting.png" width="650" height="250"/>
+<br/><br/>
+從Inpainting的論文可以得知，該model是由三個networks所組成，分別為completion network、global context discriminator以及local context discriminator。而completion network的輸入為一張完整的圖片以及該圖片對應的Mask，並經過fully convolutional，最後則輸出一張完整的圖片。至於
+global context discriminator以及local context discriminator則是負責判斷completion network輸出的圖片是否有completed consistently。
+
 origin | mask | result
 <br/><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/inpainting/1.jpg" width="200" height="200"/>
