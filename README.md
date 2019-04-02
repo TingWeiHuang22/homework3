@@ -72,17 +72,22 @@ unit: 306,340,469(此3 units為在layer4中對於偵測ceiling這個object IOU�
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_ceiling_unit340.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_ceiling_unit469.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit306.png" /><br/>
-上面的對照圖中，左邊為原圖，右邊為對306這個unit remove後的效果<br/>
+上面的對照圖中，左邊為原圖，右邊為對306這個unit remove後的ceiling效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit340.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對340這個unit remove後的ceiling效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_ceiling_unit469.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對469這個unit remove後的ceiling效果<br/>
 #### window
 unit: 88,404,405(此3 units為在layer4中對於偵測window這個object IOU前3高的neurons)<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_window_unit88.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_window_unit404.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_window_unit405.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit88.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對88這個unit remove後的window效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit404.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對404這個unit remove後的window效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_window_unit405.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對405這個unit remove後的window效果<br/>
 #### sofa
 unit 25,37,383(此3 units為在layer4中對於偵測sofa這個object IOU前3高的neurons)<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_sofa_unit25.png" /><br/>
