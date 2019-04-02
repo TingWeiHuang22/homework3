@@ -94,36 +94,47 @@ unit 25,37,383(此3 units為在layer4中對於偵測sofa這個object IOU前3高�
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_sofa_unit37.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/layer4_sofa_unit383.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_sofa_unit25.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對25這個unit remove後的sofa效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_sofa_unit37.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對37這個unit remove後的sofa效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer4/ablation_sofa_unit383.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對383這個unit remove後的sofa效果<br/>
 
 ### layer 7
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7.png" /><br/>
 #### ceiling
-unit: 59,133,172(此3 units為在layer4中對於偵測ceiling這個object IOU前3高的neurons)<br/>
+unit: 59,133,172(此3 units為在layer7中對於偵測ceiling這個object IOU前3高的neurons)<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_ceiling_unit59.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_ceiling_unit133.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_ceiling_unit172.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_ceiling_unit59.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對59這個unit remove後的ceiling效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_ceiling_unit133.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對133這個unit remove後的ceiling效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_ceiling_unit172.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對172這個unit remove後的ceiling效果<br/>
 #### window
-unit: 88,171,190(此3 units為在layer4中對於偵測window這個object IOU前3高的neurons)<br/>
+unit: 88,171,190(此3 units為在layer7中對於偵測window這個object IOU前3高的neurons)<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_window_unit88.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_window_unit171.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_window_unit190.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_window_unit88.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對88這個unit remove後的window效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_window_unit171.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對171這個unit remove後的window效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_window_unit190.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對190這個unit remove後的window效果<br/>
 #### sofa
-unit 42,159,249(此3 units為在layer4中對於偵測sofa這個object IOU前3高的neurons)<br/>
+unit 42,159,249(此3 units為在layer7中對於偵測sofa這個object IOU前3高的neurons)<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_sofa_unit42.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_sofa_unit159.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/layer7_sofa_unit249.png" /><br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_sofa_unit42.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對42這個unit remove後的sofa效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_sofa_unit159.png" /><br/>
+上面的對照圖中，左邊為原圖，右邊為對159這個unit remove後的sofa效果<br/>
 <img src="https://github.com/TingWeiHuang22/homework3/blob/master/pictures/dissect/layer7/ablation_sofa_unit249.png" /><br/>
-
+上面的對照圖中，左邊為原圖，右邊為對249這個unit remove後的sofa效果<br/>
 
 ## Compare with other method
 在此部分吾組所使用的other method為助教於課堂中所提及的Inpainting，而Inpainting這個方法的架構可從下圖可以得知：
